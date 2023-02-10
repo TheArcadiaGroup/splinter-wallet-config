@@ -1,0 +1,54 @@
+{
+  "dataSwap": {
+    "8081": {
+      "WSHM": "0xD9bB7242D8FC9c8E46Ddf4337Caaf76E7216adc0",
+      "ROUTER": "0x3740DbC33dc8F724a02042e4470C0B49f1De4712",
+      "TOKEN_LIST": [
+        {
+          "balanceReadable": "0",
+          "contractId": "",
+          "price": "0",
+          "name": "SHM",
+          "symbol": "SHM",
+          "decimals": 18
+        },
+        {
+          "balanceReadable": "0",
+          "contractId": "0xD9bB7242D8FC9c8E46Ddf4337Caaf76E7216adc0",
+          "price": "0",
+          "name": "Wrap SHM",
+          "symbol": "WSHM",
+          "decimals": 18
+        },
+        {
+          "balanceReadable": "0",
+          "contractId": "0x325ecEB0c1f1c9F9B136361D3bfCD96466C6963C",
+          "price": "0",
+          "name": "Swapped Finance Token",
+          "symbol": "SWPD",
+          "decimals": 18
+        }
+      ]
+    }
+  },
+  "bookmark": [
+    {
+      "url": "https://pancakeswap.finance/swap",
+      "icon": "",
+      "descripton": "",
+      "title": "PancakeSwap"
+    },
+    {
+      "url": "https://app.uniswap.org/#/swap",
+      "icon": "",
+      "descripton": "",
+      "title": "Uniswap"
+    },
+    {
+      "url": "https://metamask.github.io/test-dapp/",
+      "icon": "",
+      "descripton": "",
+      "title": "Test dapp"
+    }
+  ]
+}
