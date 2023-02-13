@@ -29,6 +29,36 @@
           "decimals": 18
         }
       ]
+    },
+    "97": {
+      "WSHM": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
+      "ROUTER": "0x6725f303b657a9451d8ba641348b6761a6cc7a17",
+      "TOKEN_LIST": [
+        {
+          "balanceReadable": "0",
+          "contractId": "",
+          "price": "0",
+          "name": "BNB",
+          "symbol": "BNB",
+          "decimals": 18
+        },
+        {
+          "balanceReadable": "0",
+          "contractId": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
+          "price": "0",
+          "name": "Wrap BNB",
+          "symbol": "WBNB",
+          "decimals": 18
+        },
+        {
+          "balanceReadable": "0",
+          "contractId": "0xFa60D973F7642B748046464e165A65B7323b0DEE",
+          "price": "0",
+          "name": "Pancake Swap",
+          "symbol": "Cake",
+          "decimals": 18
+        }
+      ]
     }
   },
   "bookmark": [
